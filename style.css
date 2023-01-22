@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-size: 3rem !important;
+    font-family: Ubuntu,sans-serif;
+  }
+  
+  .navbar{
+    margin-bottom:5rem;
+  }
+  
+  .nav-item{
+    padding: 5px 18px;
+    nav-right: auto ;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    font-family: Montserrat-light;
+  }
