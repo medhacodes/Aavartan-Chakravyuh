@@ -15,3 +15,9 @@
     font-size: 1.2rem;
     font-family: Montserrat-light;
   }
+  
+  footer{
+    text-align: center;
+    align-self: baseline;
+    color: red;
+  }
